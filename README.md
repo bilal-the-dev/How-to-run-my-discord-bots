@@ -33,3 +33,7 @@ Boom! The bot is on :D
 
 ## Deployment on cloud
 
+One downside of running locally is if you turn off your pc, the bot will go off. If you are looking to make it run 24/7 refer to m cloud deployment guide [here](https://github.com/bilal-the-dev/Deployment-on-cloud-vps/)
+
+See you next time :)
+
