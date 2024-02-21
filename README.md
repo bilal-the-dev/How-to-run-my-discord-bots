@@ -12,6 +12,10 @@ You'll see a `sample.env` file in all my repositries. Create a file called `.env
 Replace the dummy values with original ones.
 #
 
+## Configuration
+
+Sometimes the project may have a `sample.config.json` for ids of channels and other things. Just create a `config.json` file and paste the content of former file into latter.
+
 
 ## Installation
 
